@@ -10,6 +10,7 @@ namespace WebAppCaixaPizzaria.Models
         public string Nome { get; set; }
 
         //construtor
+        //teste
 
         public Cliente(string texto)
         {
